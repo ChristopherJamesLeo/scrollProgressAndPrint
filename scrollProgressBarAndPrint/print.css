@@ -1,0 +1,16 @@
+body{
+    color: blue;
+}
+.header {
+    position: sticky;
+}
+.content-container{
+    padding: 20px ;
+}
+.print-btn {
+    display: none;
+}
+@page{
+    size: A4 portrait;
+    margin: 0 auto;
+}
